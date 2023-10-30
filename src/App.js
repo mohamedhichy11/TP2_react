@@ -20,7 +20,7 @@ export default function App() {
   };
 
   return (
-    <div>
+    <div  className="content">
       <button onClick={prevcard} className="Prevbtn"><i class="fa-solid fa-arrow-left"></i></button>
 
       <div className="Div1">{arrayCards[currentIndex]}</div>

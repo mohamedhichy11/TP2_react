@@ -39,3 +39,11 @@ i{
     background-color: black;
     transition: 0.8s;
 }
+.Div1{
+  margin-left: 320px;
+}
+
+.content{
+  width: 500px;
+  height: 500px;
+}
