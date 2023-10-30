@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TP2_react/static/css/main.83134ba8.css",
-    "main.js": "/TP2_react/static/js/main.ba927b2d.js",
+    "main.css": "/TP2_react/static/css/main.a907b765.css",
+    "main.js": "/TP2_react/static/js/main.0a1c3645.js",
     "static/js/787.3ff00ae8.chunk.js": "/TP2_react/static/js/787.3ff00ae8.chunk.js",
     "static/media/wichfire.png": "/TP2_react/static/media/wichfire.f2986d6fec14b9707e44.png",
     "static/media/cy.jpg": "/TP2_react/static/media/cy.5d3ae475ec70b1c2d087.jpg",
@@ -12,12 +12,12 @@
     "static/media/logo_wichfire.png": "/TP2_react/static/media/logo_wichfire.b88c7d572c7e1a94a8e4.png",
     "static/media/MIRAGE_LOGO.webp": "/TP2_react/static/media/MIRAGE_LOGO.5026b81e4e1ce29caf80.webp",
     "index.html": "/TP2_react/index.html",
-    "main.83134ba8.css.map": "/TP2_react/static/css/main.83134ba8.css.map",
-    "main.ba927b2d.js.map": "/TP2_react/static/js/main.ba927b2d.js.map",
+    "main.a907b765.css.map": "/TP2_react/static/css/main.a907b765.css.map",
+    "main.0a1c3645.js.map": "/TP2_react/static/js/main.0a1c3645.js.map",
     "787.3ff00ae8.chunk.js.map": "/TP2_react/static/js/787.3ff00ae8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83134ba8.css",
-    "static/js/main.ba927b2d.js"
+    "static/css/main.a907b765.css",
+    "static/js/main.0a1c3645.js"
   ]
 }
